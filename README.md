@@ -23,8 +23,8 @@ A lightweight Go command-line tool that concurrently checks the availability and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
-   cd your-repo-name
+   git clone https://github.com/Brangetop/uptimeChecker
+   cd uptimeChecker
    ```
 
 2. Run the application:
